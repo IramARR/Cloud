@@ -1,2 +1,2 @@
-equipo = ["Iram","David","Angel","Diego","Jonathan"]
+equipo = ["Iram 22550296","David ","Angel","Diego","Jonathan"]
 print(equipo)
